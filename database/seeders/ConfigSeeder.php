@@ -18,6 +18,11 @@ class ConfigSeeder extends Seeder
                 'key' => 'tutorial_video',
                 'value' => '-',
                 'is_active' => 0
+            ],
+            [
+                'key' => 'qr_donasi',
+                'value' => '-',
+                'is_active' => 0
             ]
         ]);
     }
